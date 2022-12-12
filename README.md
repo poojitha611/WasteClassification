@@ -79,11 +79,11 @@ Latest technologies like Deep Learning for Waste classification, web application
 <img src="img/Screenshot (235).png" width="60%" style="margin-left:10%;">
 </p>
   
-| Algorithm                                  | accuracy                                                               |
+| Algorithm                                  | accuracy                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------ |
-| 1. CNN                                     | To store the minted NFT's                                          |
-| 2. DENSENET                                | Storage for new images and dataset for Deep Learning model         |
-| 3. RESNET                                  | Mobile App framework                                               |
+| 1. CNN                                     | accuracy rate is 38%                                               |
+| 2. DENSENET                                |   accuracy rate is 75%                                             |
+| 3. RESNET                                  | accuracy rate is 92%                                               |
 
 
 
