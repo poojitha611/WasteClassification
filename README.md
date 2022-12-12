@@ -35,8 +35,9 @@
 * [Challenges](#d)
 * [Accomplishments](#e)
 # <a name="team-members"></a>Team Members
-* P.Poojitha Chowdary - <marvelmohinish99@gmail.com>
-* M. Nikitha - <Jonathangan@usf.edu>
+* P.Poojitha chowdary - <ppopu3@unh.newhaven.edu>
+* R.Nikitha - <nraav1@unh.newhaven.edu>
+* k.Madhu Vamsi - <mkaka5@unh.newhaven.edu>
 
 
 # <a name="a"></a>Inspiration
@@ -66,13 +67,12 @@ Latest technologies like Deep Learning for Waste classification, web application
 &nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
   
   
-| Technology                                 | Uses                                                               |
+| Algorithm                                  | accuracy                                                               |
 | ------------------------------------------ | ------------------------------------------------------------------ |
-| 1. NFT.storage                             | To store the minted NFT's                                          |
-| 2. IPFS                                    | Storage for new images and dataset for Deep Learning model         |
-| 3. React Native                            | Mobile App framework                                               |
-| 4. Flask                                   | To integrate CNN model to Frontend                                 |
-| 5. Filecoin                                | Used in NFT.storage as permanent stoarge platform for minted NFT's |
+| 1. CNN                                     | To store the minted NFT's                                          |
+| 2. DENSENET                                | Storage for new images and dataset for Deep Learning model         |
+| 3. RESNET                                  | Mobile App framework                                               |
+
 
 
 
