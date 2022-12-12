@@ -1,0 +1,7 @@
+numpy
+Pillow
+keras==2.8.0
+tensorflow==2.8.0
+flask
+Werkzeug
+gunicorn
