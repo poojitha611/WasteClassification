@@ -21,7 +21,7 @@
     <a href="https://github.com/poojitha611/WasteClassification"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/kkXdOf3BB2s">Video Demo</a>
+    <a href="https://youtu.be/sbCeYiIwzks">Video Demo</a>
     ·
   
   </p>
