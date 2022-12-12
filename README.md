@@ -13,20 +13,16 @@
 <p align="center">
 
 
-  <h1 align="center">Garbage Goober Rewards</h1>
+  <h1 align="center">Waste Classification using CNN</h1>
 
   <p align="center">
-    Decentralised reward distribution for Waste Management using Blockchain & AI.
+    Deep Learning based waste classification system.
     <br />
-    <a href="https://github.com/MohinishTeja/dragon_hacks"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/poojitha611/WasteClassification"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/kkXdOf3BB2s">Video Demo</a>
     ·
-    <a href="https://mohinishteja.github.io/garbage_goober/">View DApp</a>  
-    ·
-    <a href="https://expo.dev/@jongan69/garbagegooberrewards">Mobile App</a>
-  
   
   </p>
 </p>
@@ -39,8 +35,8 @@
 * [Challenges](#d)
 * [Accomplishments](#e)
 # <a name="team-members"></a>Team Members
-* P.Mohinish Teja - <marvelmohinish99@gmail.com>
-* Jonathan Gan - <Jonathangan@usf.edu>
+* P.Poojitha Chowdary - <marvelmohinish99@gmail.com>
+* M. Nikitha - <Jonathangan@usf.edu>
 
 
 # <a name="a"></a>Inspiration
@@ -131,21 +127,4 @@ Latest technologies like Deep Learning for Waste classification, Blockchain for 
 <img src="img/Screenshot (1469).png" width="60%" style="margin-left:10%;">
 </p>
 
-<p align="center">
-<img src="img/Screenshot (1472).png" width="60%" style="margin-left:10%;">
-</p>
-
-<p align="center">
-<img src="img/Screenshot (1475).png" width="60%" style="margin-left:10%;">
-</p>
-
-
-<p align="center">
-<img src="img/Screenshot (42).png" width="60%" style="margin-left:10%;">
-</p>
-<p align="center">
-<img src="img/Screenshot (44).png" width="60%" style="margin-left:10%;">
-</p>
-<p align="center">
-<img src="img/Screenshot (45).png" width="60%" style="margin-left:10%;">
 </p>
