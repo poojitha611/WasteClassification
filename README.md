@@ -84,7 +84,7 @@ Convolutional Neural Networks are designed to automatically and adaptively learn
 | Algorithm                                  | accuracy                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------ |
 | 1. CNN                                     | accuracy rate is 38%                                               |
-| 2. DENSENET                                |   accuracy rate is 75%                                             |
+| 2. DENSENET                                | accuracy rate is 75%                                               |
 | 3. RESNET                                  | accuracy rate is 92%                                               |
 
 
