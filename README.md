@@ -44,10 +44,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;Landfills are one of the largest producers of Methane and 
 house gases. Even power generation from Waste produces CO2. Why is it a big problem? It is because of no proper way in dumping. All kind of wastes are dumped which leads to half degrading and pollution of local resources.Dumping of huge amount of waste also causes soil contamination,Water contamination,Air contamination and causes harm for marine and animal life. 
 
-<p align="center">
-<img src="img/9c2ddc4b3ac00e9a1bb87f53ef4f718f.png" width="40%" style="margin-left:10%;">
-</p>
-  
+
 # <a name="b"></a> What it does
 &nbsp; &nbsp; &nbsp; &nbsp;
   - AI/ML      - To determine the type of waste
