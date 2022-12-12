@@ -64,14 +64,13 @@ Latest technologies like Deep Learning for Waste classification, web application
 &nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
   
 # <a name="c"></a> CNN
-&nbsp; &nbsp; &nbsp; &nbsp;It is Deep Neural Networks which will recognize and classify particular features from images and are widely used for analyzing visual images.
+&nbsp; &nbsp; &nbsp; &nbsp; It is Deep Neural Networks which will recognize and classify particular features from images and are widely used for analyzing visual images.
 Convolutional Neural Networks are designed to automatically and adaptively learn spatial hierarchies of features, from low- to high-level patterns.
- 
 <p align="center">
 <img src="img/Screenshot (233).png" width="60%" style="margin-left:10%;">
 </p> 
 # <a name="c"></a> DENSENET
-&nbsp; &nbsp; &nbsp; &nbsp;DenseNet is a convolutional neural network wherever every layer is connected to all or any different layers that are deeper within the network.
+&nbsp; &nbsp; &nbsp; &nbsp; DenseNet is a convolutional neural network wherever every layer is connected to all or any different layers that are deeper within the network.
 <p align="center">
 <img src="img/Screenshot (234).png" width="60%" style="margin-left:10%;">
 </p> 
