@@ -66,6 +66,11 @@ Latest technologies like Deep Learning for Waste classification, web application
 # <a name="c"></a> How we built it
 &nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
   
+# <a name="c"></a> CNN
+&nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
+<p align="center">
+<img src="img/Screenshot (233).png" width="60%" style="margin-left:10%;">
+</p> 
   
 | Algorithm                                  | accuracy                                                               |
 | ------------------------------------------ | ------------------------------------------------------------------ |
