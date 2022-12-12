@@ -68,6 +68,16 @@ Latest technologies like Deep Learning for Waste classification, web application
 <p align="center">
 <img src="img/Screenshot (233).png" width="60%" style="margin-left:10%;">
 </p> 
+# <a name="c"></a> DENSENET
+&nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
+<p align="center">
+<img src="img/Screenshot (234).png" width="60%" style="margin-left:10%;">
+</p> 
+# <a name="c"></a> RESNET
+&nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
+<p align="center">
+<img src="img/Screenshot (235).png" width="60%" style="margin-left:10%;">
+</p>
   
 | Algorithm                                  | accuracy                                                               |
 | ------------------------------------------ | ------------------------------------------------------------------ |
