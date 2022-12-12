@@ -91,10 +91,10 @@ Convolutional Neural Networks are designed to automatically and adaptively learn
 
 ## Gallery
 
-<p align="center">
+<p align="left">
 <img src="img/Screenshot (1469).png" width="60%" style="margin-left:10%;">
 </p>
-<p align="center">
+<p align="right">
 <img src="img/Screenshot (236).png" width="60%" style="margin-left:10%;">
 </p>
 
