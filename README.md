@@ -53,10 +53,6 @@ house gases. Even power generation from Waste produces CO2. Why is it a big prob
   - Blockchain - To distribute rewards
 
 
-<p align="center">
-<img src="img/Untitled Diagram (1).png" width="40%" style="margin-left:10%;">
-</p>
-
 We have started out with a flask app for classifying types of waste. Later we decided to implement a better front end experience.
 
 Latest technologies like Deep Learning for Waste classification, web applications ensure the application detects waste correctly.
@@ -65,8 +61,6 @@ Latest technologies like Deep Learning for Waste classification, web application
   
 <img src="img/Screenshot (1470).png" width="45%" style="margin-left:10%;">
 
-<img src="img/Screenshot (1473).png" width="45%" style="margin-left:10%;">
-</p>
 
 # <a name="c"></a> How we built it
 &nbsp; &nbsp; &nbsp; &nbsp;We have built this system as Web App. Entire frontend is built using HTML,CSS,JS. 
